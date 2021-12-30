@@ -1,6 +1,8 @@
 # Personal Information
 **Name** : Natalia Medvedeva
 **E-mail**: natalia.matina@yandex.ru
+**education** Tomsk State University
+**profession** engineer
 **Education**: HTML Academy (HTML & CSS courses)
 **Summary**: HTML, CSS, JS (beginer)
 **Work experience**: certification project for HTML Academy:
